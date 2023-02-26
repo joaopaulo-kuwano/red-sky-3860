@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "@spike-client",
-    "slug": "@spike-client",
+    "name": "spike-client",
+    "slug": "spike-client",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
